@@ -31,7 +31,7 @@ Let's connect and build something awesome!
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new full-stack recipe-sharing social media application**
-- 🌱 I'm currently learning: **📚 Data Structures and Algorithms**
+- 🌱 I'm currently learning: **📚 Data Structures and Algorithms and usages of AI as a programmer**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
