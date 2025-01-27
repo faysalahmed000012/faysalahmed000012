@@ -21,11 +21,14 @@
 
 I'm a passionate **Full Stack Developer** with a focus on **Frontend Development**. I specialize in building responsive, user-friendly web applications using modern web technologies. My tech stack includes:
 
-- **Frontend:** React, Next.js, JavaScript, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, Mongoose
-- **Version Control:** Git, GitHub
-- **UI Libraries/Tools:** ShadCN UI, TailwindCSS
+- **Programming Languages:** JavaScript, Typescript, Python, C, Java.
+- **Frontend:** React, Next.js, JavaScript, HTML5, CSS3.
+- **Backend:** Node.js, Express.js.
+- **Databases:** MongoDB, Mongoose.
+- **Version Control:** Git, GitHub.
+- **UI Libraries/Tools:** ShadCN UI, TailwindCSS, Postman, Atlassian, Productive.
+- **Other:** Docker.
+
 
 I love solving problems and continuously learning new technologies to improve my skills. Feel free to check out my projects and contributions!
 
